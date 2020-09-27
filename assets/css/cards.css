@@ -21,7 +21,7 @@
 .cardDescription {
   /* display, flex-direction, align-items, flex-grow */
   padding: 15px 0;
-  display: flex; flex-direction: row; justify-content: center; align-items: center;flex-grow:100%
+  display: flex; flex-direction: column; align-items: flex-start; flex-grow: 1;
 }
 
 html {
